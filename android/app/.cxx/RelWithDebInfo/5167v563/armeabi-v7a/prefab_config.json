@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/prashantjain/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/Users/prashantjain/.gradle/caches/8.9/transforms/7a1f7f9b154071da7145eec72b190618/transformed/jetified-react-android-0.76.5-release/prefab",
+    "/Users/prashantjain/Desktop/project/clique/dev/qennect-fe-app/node_modules/react-native-reanimated/android/build/intermediates/prefab_package/release/prefab",
+    "/Users/prashantjain/.gradle/caches/8.9/transforms/b8bfb956880ddcf277b23f6debe4ef61/transformed/jetified-hermes-android-0.76.5-release/prefab",
+    "/Users/prashantjain/.gradle/caches/8.9/transforms/76371be99bf168c758b4977074e5035e/transformed/jetified-fbjni-0.6.0/prefab"
+  ]
+}

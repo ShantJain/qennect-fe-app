@@ -1,0 +1,1 @@
+/Users/prashantjain/Desktop/project/clique/dev/qennect-fe-app/android/app/build/intermediates/cxx/RelWithDebInfo/5167v563/obj/x86
